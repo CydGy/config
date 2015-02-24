@@ -1,0 +1,4 @@
+URxvt*.scrollBar: false
+URxvt*.foreground: white
+URxvt*.background: black
+URxvt*.font: xft:Inconsolata:size=15
