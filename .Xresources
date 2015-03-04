@@ -1,0 +1,25 @@
+! Design
+URxvt*.scrollBar: false
+URxvt*.foreground: white
+URxvt*.background: black
+URxvt*.font: xft:Inconsolata:size=15
+
+! https://wiki.archlinux.org/index.php/rxvt-unicode#Perl_extensions
+! Yankable URLs (no mouse)
+URxvt.perl-ext: default,url-select
+URxvt.keysym.M-u: perl:url-select:select_next
+URxvt.url-select.launcher: /usr/bin/chromium
+URxvt.url-select.underline: true
+
+! Changing font size on the fly
+URxvt.perl-ext-common: font-size
+URxvt.keysym.C-Up:      perl:font-size:increase
+URxvt.keysym.C-Down:    perl:font-size:decrease
+URxvt.keysym.C-S-Up:    perl:font-size:incglobal
+URxvt.keysym.C-S-Down:  perl:font-size:decglobal
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+! For copy and pasting, use the default X key bindings. After selecting the
+! text Ctrl+Insert or Ctrl+Alt+C can be used to copy and Shift+Insert or
+! Ctrl+Alt+V to paste.
