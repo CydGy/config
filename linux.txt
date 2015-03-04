@@ -11,4 +11,4 @@ sudo, bash-completion, vim, git, pavucontol, thunderbird, bluez, bluez-utils,
 bluez-hid2hci, xorg-server, xorg-server-utils, xf86-video-intel, xorg-xinit,
 rxvt-unicode, i3, dmenu, terminus-font, ttf-ubuntu-font-family,
 ttf-inconsolata, ttf-oxygen, ttf-bitstream-vera, chromium, base-devel,
-chromium-pepper-flash, os-prober
+chromium-pepper-flash, os-prober, urxvt-perls
