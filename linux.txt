@@ -7,15 +7,17 @@
  * Official Repositories
  */
 
-sudo, bash-completion, vim, git, pavucontol, thunderbird, bluez, bluez-utils,
-bluez-hid2hci, xorg-server, xorg-server-utils, xf86-video-intel, xorg-xinit,
-rxvt-unicode, i3, dmenu, terminus-font, ttf-ubuntu-font-family,
-ttf-inconsolata, ttf-oxygen, ttf-bitstream-vera, chromium, base-devel,
-chromium-pepper-flash, os-prober, urxvt-perls
+sudo, bash-completion, vim, git, chromium,
+xorg-server, xorg-server-utils, xf86-video-intel, xorg-xinit,
+rxvt-unicode, urxvt-perls, i3, dmenu,
+terminus-font, ttf-ubuntu-font-family, ttf-inconsolata, ttf-oxygen, ttf-bitstream-vera,
+base-devel,
+grub, os-prober,
 
 
 /**
  * AUR
  */
 
+chromium-pepper-flash,
 urxvt-font-size-git
