@@ -13,12 +13,13 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
+#font pango:monospace 8
+font pango:Terminus 14
+
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-# My Edit
 #font pango:DejaVu Sans Mono 8
-#font pango:DejaVu Sans Mono 12
-font pango:Terminus 12
+
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
@@ -73,7 +74,7 @@ bindsym $mod+h split h
 bindsym $mod+v split v
 
 # enter fullscreen mode for the focused container
-bindsym $mod+f fullscreen
+bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
@@ -153,11 +154,6 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
         status_command i3status
-        # My Edit
-        #status_command i3status --config ~/.i3status.conf
 }
 
-# My Edit
-workspace 1 output HDMI3
-workspace 9 output HDMI1
 exec --no-startup-id i3-msg 'workspace 1; exec chromium'
