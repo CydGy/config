@@ -10,7 +10,7 @@
 sudo, bash-completion, vim, git, chromium,
 xorg-server, xorg-server-utils, xf86-video-intel, xorg-xinit,
 rxvt-unicode, urxvt-perls, i3, dmenu,
-terminus-font, ttf-ubuntu-font-family, ttf-inconsolata, ttf-oxygen, ttf-bitstream-vera,
+
 base-devel,
 grub, os-prober,
 
