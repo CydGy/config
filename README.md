@@ -1,54 +1,62 @@
 # Linux configuration
 
-install everything from source code, not package
+Simple is better.
+Reduce distraction and increase focus.
 
-## Window manager
+## Window manager: dwm
+## Dynamic menu: dmenu
+## Terminal: st
+## X display locker: slock
 
-#### i3
-#### dwm
-https://wiki.archlinux.org/index.php/Comparison_of_tiling_window_managers
+
+
 
 ## Graphical web browser
 
-#### Vimprobable2
-Currently testing.
-
 #### Vimb
 To be tested.
-
 #### Uzbl
 To be tested.
-
 #### dwb
 To be tested.
-
+#### surf
+To be tested.
 #### Notes
 No tab support can be good: "I am now much less distracted and more focused
 when browsing the web. dwm + surf <3".
 
+
 ## Search engine
 
 #### DuckDuckGo
+#### ixquick
+
+#### Open Street Map
+
 
 ## Mail user agent
 
-#### Mutt
+#### Mutt (complex...)
 https://wiki.archlinux.org/index.php/List_of_applications/Internet\#Email_clients
 https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 
-## Terminal
-
-#### Urxvt
 
 ## Text editor
 
 #### Vim
+#### Sandy
+#### Graphical
+
 
 ## Fonts
 
 - `ttf-dejavu` Used for Chromium and i3. (Unicode support)
 - `ttf-inconsolata` Used for urxvt.
 
+
+## PDF
+
+#### apvlv
 
 ## Sound
 ## Touch typing
@@ -66,3 +74,8 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 Instant messaging
 VoIP / Softphone
 Bitcoin
+Tor
+Diaspora
+Freenet
+Friendica
+Riseup.net (email!)
