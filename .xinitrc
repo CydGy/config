@@ -1,1 +1,2 @@
+exec statusbar &
 exec dwm

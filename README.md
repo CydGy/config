@@ -4,16 +4,17 @@ Simple is better. Manual installation from Git. Reduce distraction and increase
 focus. Coded in C.
 
 
-## Fonts
-#### [Terminus](http://terminus-font.sourceforge.net/)
-#### [Gohufont](http://font.gohu.org/)
-
+## Fonts: [Terminus](http://terminus-font.sourceforge.net/),
+[Gohufont](http://font.gohu.org/)
 ## Window manager: [dwm](http://dwm.suckless.org/)
 ## Dynamic menu: [dmenu](http://tools.suckless.org/dmenu/)
 ## Terminal: [st](http://st.suckless.org/)
 ## X display locker: [slock](http://tools.suckless.org/slock/)
+## coming soon...
 
 
+
+----
 
 ## Graphical web browser
 
