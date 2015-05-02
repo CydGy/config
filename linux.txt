@@ -1,23 +1,6 @@
-- Create user
-- Network
-- Copy configurations
-- grub-mkconfig
-
-/**
- * Official Repositories
- */
-
 sudo, bash-completion, vim, git, chromium,
 xorg-server, xorg-server-utils, xf86-video-intel, xorg-xinit,
 rxvt-unicode, urxvt-perls, i3, dmenu,
 
 base-devel,
 grub, os-prober,
-
-
-/**
- * AUR
- */
-
-chromium-pepper-flash,
-urxvt-font-size-git

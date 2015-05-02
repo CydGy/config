@@ -1,29 +1,27 @@
 # Linux configuration
 
-Simple is better.
-Reduce distraction and increase focus.
+Simple is better. Manual installation from Git. Reduce distraction and increase
+focus. Coded in C.
 
-## Window manager: dwm
-## Dynamic menu: dmenu
-## Terminal: st
-## X display locker: slock
 
+## Fonts
+#### [Terminus](http://terminus-font.sourceforge.net/)
+#### [Gohufont](http://font.gohu.org/)
+
+## Window manager: [dwm](http://dwm.suckless.org/)
+## Dynamic menu: [dmenu](http://tools.suckless.org/dmenu/)
+## Terminal: [st](http://st.suckless.org/)
+## X display locker: [slock](http://tools.suckless.org/slock/)
 
 
 
 ## Graphical web browser
 
+#### Vimprobable
 #### Vimb
-To be tested.
 #### Uzbl
-To be tested.
 #### dwb
-To be tested.
 #### surf
-To be tested.
-#### Notes
-No tab support can be good: "I am now much less distracted and more focused
-when browsing the web. dwm + surf <3".
 
 
 ## Search engine
@@ -48,11 +46,6 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 #### Graphical
 
 
-## Fonts
-
-- `ttf-dejavu` Used for Chromium and i3. (Unicode support)
-- `ttf-inconsolata` Used for urxvt.
-
 
 ## PDF
 
@@ -71,6 +64,7 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 - search engine
 - mail user agent
 
+Git
 Instant messaging
 VoIP / Softphone
 Bitcoin
