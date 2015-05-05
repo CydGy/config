@@ -28,8 +28,11 @@ focus. Coded in C.
 
 ## Search engine
 
-#### DuckDuckGo
+#### DuckDuckGo (ddg.gg)
 #### ixquick
+
+
+## Web apps
 
 #### Open Street Map
 
@@ -55,16 +58,11 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 
 ## Sound
 ## Touch typing
+## Command language interpreter
+#### bash
+#### sh
 
 ## How to be a keyboard Ninja
-
-- touch typing
-- bash
-- vim
-- window manager
-- web browser
-- search engine
-- mail user agent
 
 Git
 Instant messaging
@@ -75,3 +73,4 @@ Diaspora
 Freenet
 Friendica
 Riseup.net (email!)
+QR code
