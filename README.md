@@ -2,25 +2,24 @@
 
 #### Fonts
 
-[Terminus](http://terminus-font.sourceforge.net/)
-
-[Gohufont](http://font.gohu.org/)
+- [Terminus](http://terminus-font.sourceforge.net/)
+- [Gohufont](http://font.gohu.org/)
 
 #### Window manager
 
-[dwm](http://dwm.suckless.org/)
+- [dwm](http://dwm.suckless.org/)
 
 #### Dynamic menu
 
-[dmenu](http://tools.suckless.org/dmenu/)
+- [dmenu](http://tools.suckless.org/dmenu/)
 
 #### Terminal
 
-[st](http://st.suckless.org/)
+- [st](http://st.suckless.org/)
 
 #### X display locker
 
-[slock](http://tools.suckless.org/slock/)
+- [slock](http://tools.suckless.org/slock/)
 
 #### Other
 
@@ -31,41 +30,36 @@
 
 #### Graphical web browser?
 
-Vimprobable
-
-Vimb
-
-Uzbl
-
-dwb
-
-surf
+- Vimprobable
+- Vimb
+- Uzbl
+- dwb
+- surf
 
 #### Search engine?
 
-DuckDuckGo (ddg.gg)
-
-ixquick
+- DuckDuckGo (ddg.gg)
+- ixquick
 
 #### Web apps?
 
-Open Street Map
+- Open Street Map
 
 #### Mail user agent?
 
-Mutt (complex...)
+- Mutt (complex...)
 https://wiki.archlinux.org/index.php/List_of_applications/Internet\#Email_clients
 https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 
 #### Text editor?
 
-Vim
-Sandy
-Graphical
+- Vim
+- Sandy
+- Graphical
 
 #### PDF?
 
-apvlv
+- apvlv
 
 #### Sound?
 #### Command language interpreter?
