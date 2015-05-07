@@ -1,76 +1,100 @@
 # Linux configuration
 
-Simple is better. Manual installation from Git. Reduce distraction and increase
-focus. Coded in C.
+#### Fonts
 
-
-## Fonts:
 [Terminus](http://terminus-font.sourceforge.net/)
+
 [Gohufont](http://font.gohu.org/)
-## Window manager: [dwm](http://dwm.suckless.org/)
-## Dynamic menu: [dmenu](http://tools.suckless.org/dmenu/)
-## Terminal: [st](http://st.suckless.org/)
-## X display locker: [slock](http://tools.suckless.org/slock/)
-## coming soon...
 
+#### Window manager
 
+[dwm](http://dwm.suckless.org/)
+
+#### Dynamic menu
+
+[dmenu](http://tools.suckless.org/dmenu/)
+
+#### Terminal
+
+[st](http://st.suckless.org/)
+
+#### X display locker
+
+[slock](http://tools.suckless.org/slock/)
+
+#### Other
+
+[curl](http://curl.haxx.see/)
+
+[gtypist](http://www.gnu.org/software/gtypist/)
 
 ----
 
-## Graphical web browser
+#### Graphical web browser?
 
-#### Vimprobable
-#### Vimb
-#### Uzbl
-#### dwb
-#### surf
+Vimprobable
 
+Vimb
 
-## Search engine
+Uzbl
 
-#### DuckDuckGo (ddg.gg)
-#### ixquick
+dwb
 
+surf
 
-## Web apps
+#### Search engine?
 
-#### Open Street Map
+DuckDuckGo (ddg.gg)
 
+ixquick
 
-## Mail user agent
+#### Web apps?
 
-#### Mutt (complex...)
+Open Street Map
+
+#### Mail user agent?
+
+Mutt (complex...)
 https://wiki.archlinux.org/index.php/List_of_applications/Internet\#Email_clients
 https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 
+#### Text editor?
 
-## Text editor
+Vim
 
-#### Vim
-#### Sandy
-#### Graphical
+Sandy
 
+Graphical
 
+#### PDF?
 
-## PDF
+apvlv
 
-#### apvlv
+#### Sound?
+#### Command language interpreter?
 
-## Sound
-## Touch typing
-## Command language interpreter
-#### bash
-#### sh
+bash
 
-## How to be a keyboard Ninja
+sh
+
+#### See
 
 Git
+
 Instant messaging
+
 VoIP / Softphone
+
 Bitcoin
+
 Tor
+
 Diaspora
+
 Freenet
+
 Friendica
+
 Riseup.net (email!)
+
 QR code
