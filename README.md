@@ -24,9 +24,8 @@
 
 #### Other
 
-[curl](http://curl.haxx.see/)
-
-[gtypist](http://www.gnu.org/software/gtypist/)
+- [curl](http://curl.haxx.see/)
+- [gtypist](http://www.gnu.org/software/gtypist/)
 
 ----
 
@@ -61,9 +60,7 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 #### Text editor?
 
 Vim
-
 Sandy
-
 Graphical
 
 #### PDF?
@@ -73,28 +70,18 @@ apvlv
 #### Sound?
 #### Command language interpreter?
 
-bash
-
-sh
+- bash
+- sh
 
 #### See
 
-Git
-
-Instant messaging
-
-VoIP / Softphone
-
-Bitcoin
-
-Tor
-
-Diaspora
-
-Freenet
-
-Friendica
-
-Riseup.net (email!)
-
-QR code
+- Git
+- Instant messaging
+- VoIP / Softphone
+- Bitcoin
+- Tor
+- Diaspora
+- Freenet
+- Friendica
+- Riseup.net (email!)
+- QR code
