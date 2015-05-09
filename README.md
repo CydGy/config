@@ -4,6 +4,7 @@
 
 - [Terminus](http://terminus-font.sourceforge.net/)
 - [Gohufont](http://font.gohu.org/)
+- [Freefont](https://www.gnu.org/software/freefont/)
 
 #### Window manager
 
