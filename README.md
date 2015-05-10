@@ -26,6 +26,7 @@
 
 - [curl](http://curl.haxx.see/)
 - [gtypist](http://www.gnu.org/software/gtypist/)
+- [nftables](http://netfilter.org/projects/nftables/)
 
 ----
 
@@ -51,6 +52,7 @@
 - Mutt (complex...)
 https://wiki.archlinux.org/index.php/List_of_applications/Internet\#Email_clients
 https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
+- Own server + own encryption
 
 #### Text editor?
 
