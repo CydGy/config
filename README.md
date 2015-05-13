@@ -5,7 +5,7 @@
 Let's try Ubuntu with a mouse-driven configuration.
 
 
-~~
+```
 #### Fonts
 - [Terminus](http://terminus-font.sourceforge.net/)
 - [Gohufont](http://font.gohu.org/)
@@ -40,4 +40,4 @@ https://www.youtube.com/watch\?v\=hbkB_jNG-zE (Andy Yen: email)
 - Freenet
 - Riseup.net (email!)
 - QR code
-~~
+```
